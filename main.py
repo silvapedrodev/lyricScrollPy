@@ -37,3 +37,18 @@ def show_lyrics(title, desc, lyrics):
         show_header(title, desc)
         render_lyrics(lyrics, i, window_size)
         sleep(delay)
+
+# === ⬇️ EDIT THIS SECTION WITH YOUR OWN DATA ⬇️ ===
+# Replace the title, description, and lyrics with your own.
+# For each lyric line, you can change the text and the delay time (in seconds).
+
+title = "Example Title"
+description = "Example Artist or description"
+lyrics = [
+    ("Example lyric line 1", 1),
+    ("Example lyric line 2", 1),
+    ("", 1),  # Optional blank line for spacing
+    ("Example lyric line 3", 1),
+]
+
+show_lyrics(title, description, lyrics)
