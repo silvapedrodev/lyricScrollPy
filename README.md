@@ -1,8 +1,8 @@
 # Lyrics CLI 🎵📟
 
-A simple Python CLI tool for displaying lyrics, movie quotes, or any text with customizable timing and visual effects.
+A Python tool that displays text line by line in the terminal, with customizable timing and color settings. Useful for lyrics, scripts, quotes, or any sequential text presentation.
 
-Uma ferramenta CLI simples em Python para exibir letras de música, frases de filme ou qualquer texto com timing personalizável e efeitos visuais.
+Uma ferramenta em Python que exibe texto linha por linha no terminal, com configurações personalizáveis de tempo e cor. Útil para letras de músicas, roteiros, citações ou qualquer apresentação sequencial de texto.
 
 <img  align="center" width="100%" src="./assets/preview.gif" alt="preview"/>
 
