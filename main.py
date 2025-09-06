@@ -17,7 +17,7 @@ def show_header(title, desc):
     print(title)
     if desc:
         print(desc)
-    print("-")
+    print("")
 
 def render_lyrics(lyrics, current_index, window):
     start = max(0, current_index - 2)
