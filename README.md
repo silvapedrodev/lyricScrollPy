@@ -14,11 +14,11 @@ Uma ferramenta CLI simples em Python para exibir letras de música, frases de fi
 
 # Table of Contents
 
-- [Requirements](#%F0%9F%93%8B-requirements)
-- [Installation](#%F0%9F%9B%A0%EF%B8%8F-installation)
-- [How to Use](#%F0%9F%93%96-how-to-use)
-- [Troubleshooting](#%F0%9F%94%A7-troubleshooting)
-- [File Structure](#%F0%9F%93%9D-file-structure)
+- [Requirements](#-requirements)
+- [Installation](#%EF%B8%8F-installation)
+- [How to Use](#-how-to-use)
+- [Troubleshooting](#-troubleshooting)
+- [File Structure](#-file-structure)
 
 
 ## 🚀 Features
