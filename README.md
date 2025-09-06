@@ -1,4 +1,4 @@
-# Lyrics CLI 🎵📟
+# LyricScrollPy 🎵📟 
 
 A Python tool that displays text line by line in the terminal, with customizable timing and color settings. Useful for lyrics, scripts, quotes, or any sequential text presentation.
 
